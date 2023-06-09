@@ -1,0 +1,6 @@
+[submodule "Tastely_back"]
+	path = Tastely_back
+	url = git@github.com:isaczafar/Tastely_back.git
+[submodule "Tastely_front"]
+	path = Tastely_front
+	url = git@github.com:ca-ad90/Tastely_front.git
